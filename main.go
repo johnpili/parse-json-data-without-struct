@@ -6,10 +6,10 @@ import (
 )
 
 var sampleJson = `{
-	"username": "johnpili",
+	"username": "herr.wayne",
 	"password": "L3akyPa5sw0rd!",
-	"name": "John Pili",
-	"website": "https://johnpili.com",
+	"name": "Herr Wayne",
+	"website": "https://example.de",
 	"number": 123
 }`
 
